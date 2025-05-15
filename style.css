@@ -186,7 +186,7 @@ main{
 }
 .settings-drop .top {
   background: linear-gradient(rgba(128, 128, 128, 0.6), rgba(128, 128, 128, 0.6)), 
-  url('city.jpg');
+  url('images/city.jpg');
   background-size: cover; 
   background-position: center; 
   background-repeat: no-repeat; 
@@ -209,7 +209,7 @@ main{
 .project-drop .top{
   height: 150px;
   background: linear-gradient(rgba(128, 128, 128, 0.6), rgba(128, 128, 128, 0.6)), 
-  url('abstract-1.jpg');
+  url('images/abstract-1.jpg');
   background-size: cover; 
   background-position: center; 
   background-repeat: no-repeat; 
@@ -228,7 +228,7 @@ main{
 .bar-container .top, .voice-container .top{
   height: 100px;
   background: linear-gradient(rgba(128, 128, 128, 0.6), rgba(128, 128, 128, 0.6)), 
-  url('abstract-2.jpg');
+  url('images/abstract-2.jpg');
   background-size: cover; 
   background-position: center; 
   background-repeat: no-repeat; 
@@ -307,7 +307,7 @@ ul, li{
 .notification-dropdown .top {
   height: 100px;
   background: linear-gradient(rgba(128, 128, 128, 0.6), rgba(128, 128, 128, 0.6)), 
-              url('abstract-2.jpg');
+              url('images/abstract-2.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -421,7 +421,7 @@ ul, li{
   min-height: 100px;
   height:auto;
   background: linear-gradient(rgba(58, 115, 138, 0.6), rgba(72, 157, 197, 0.6)), 
-              url('abstract-2.jpg');
+              url('images/abstract-2.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
